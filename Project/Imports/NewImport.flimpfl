@@ -1,10 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProjectImport AutoSync="true">
-    <Files>
-        <Url Source="file:///C:/Users/lbalababa/Documents/My Projects/PhoneCase_2/PhoneCase_2.flprj" AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/PhoneCase_2/PhoneCase_2.flprj" />
-    </Files>
-    <ExcludedFiles />
-    <CollectedSourceFiles />
-    <SkippedSourceFiles />
-    <GeneratedFiles />
+<CatapultProjectImport
+  AutoSync="true"
+  LastImport="2019-04-04T13:28:05.2942801-07:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/lbalababa/Documents/My Projects/PhoneCase_2/PhoneCase_2.flprj"
+      AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/PhoneCase_2/PhoneCase_2.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../PhoneCase_2/Content/Topic.htm"
+      AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/PhoneCase_2/Content/Topic.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Topic.htm"
+      TimeStamp="6/13/2018 1:07:24 AM" />
+  </GeneratedFiles>
 </CatapultProjectImport>
